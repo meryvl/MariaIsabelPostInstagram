@@ -1,0 +1,124 @@
+body{
+    background-color: black;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.cuerpo{
+
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: white;
+    margin-top: 10;
+    width: 30%;
+    margin-top: 5%;
+    padding-bottom: 10px;
+    height: auto;
+}
+
+.encabezado{
+    display: flex;
+
+}
+.letrashtml{
+    width: 90%;
+    
+    }
+
+.iconohtml{
+
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-top: 20px
+}   
+
+
+.html5{
+
+    font-size: 18px;
+    font-weight:bold;
+    height: 0px;
+
+}
+.rig{
+    font-size: 12px;
+    
+}
+
+
+.puntos{
+
+margin-top: 20px;
+height: 30px;
+
+
+}
+
+
+.bigimg{
+width: 100%;
+height: 300px;
+}
+
+.iconos2{
+ width: 100%;
+ display: flex;
+ margin-left: 10px;
+
+
+}
+
+.I-izquierdos{
+width: 85%;
+
+}
+.I-derecha{
+    width: 10%;
+    text-align: right;
+}
+
+
+.corazon{ 
+    width: 20px;
+    height: 20px;
+}
+
+.bocadillo{
+    width: 17px;
+    height: 17px;
+    margin-left: 2px;
+}
+
+.avion{
+
+    width: 20px;
+    height: 20px;
+    margin-left: 2px;
+     
+}
+
+.guardar{
+    margin-left: 5%;
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+ 
+    
+}
+
+.p1{
+    font-size: 12px;
+    margin-left:10px;
+    margin-right: 5%;
+    text-align: justify;
+
+}
+.p2{
+    font-size: 12px;
+    margin-left:10px;
+    margin-right: 5%;
+    text-align: justify;
+}
