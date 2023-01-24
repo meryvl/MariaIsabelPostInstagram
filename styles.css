@@ -7,7 +7,7 @@ body{
 
 
 .cuerpo{
-
+    border-radius: 1%;
     font-family: 'Noto Sans JP', sans-serif;
     background-color: white;
     margin-top: 10;
